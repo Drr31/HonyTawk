@@ -30,10 +30,6 @@ HonyTawk/
 ├── index.html
 ├── style.css
 ├── images/
-│ ├── skateboard.jpg
-│ ├── longboard.jpg
-│ ├── tee-shirt.jpg
-│ └── ...
 └── README.md
 
 ## 👤 Auteur
@@ -42,5 +38,3 @@ Projet développé par **Rochdi Dardor**
 Dans le cadre d’un TP de front-end (HTML/CSS/JS ), DUT MMI@DEV / IUT de Troyes
 
 ---
-
-📦 Projet éducatif sans back-end ni panier fonctionnel.
