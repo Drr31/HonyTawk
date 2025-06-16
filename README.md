@@ -25,13 +25,13 @@
 - [FontAwesome](https://fontawesome.com) (via CDN)
 
 ## 📁 Arborescence
-
+```
 HonyTawk/
 ├── index.html
 ├── style.css
 ├── images/
 └── README.md
-
+```
 ## 👤 Auteur
 
 Projet développé par **Rochdi Dardor**  
